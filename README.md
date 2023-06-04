@@ -4,5 +4,6 @@
 
 toy-projects:
 - ~~[VNDB-VL](https://vndb-vl-client.herokuapp.com/)~~ Superceeded by [Terminus](https://github.com/angelocarasig/Terminus)
-- [FAVORITE Unpacker](https://github.com/angelocarasig/FAVORITE-Unpacker)
 - [GBF Bookmarklets](https://github.com/angelocarasig/gbf-bookmarklets)
+- [FAVORITE Unpacker](https://github.com/angelocarasig/FAVORITE-Unpacker)
+- [python-scripts](https://github.com/angelocarasig/python-scripts)
