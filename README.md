@@ -2,7 +2,7 @@
 
 <p align=center>
 <a href="https://github.com/angelocarasig">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelocarasig&show_icons=true&hide=prs,issues&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true" width=500px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=angelocarasig&show_icons=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true" width=500px/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelocarasig&layout=compact&hide=jupyter%20notebook,javascript&show_icons=true&theme=dracula&hide_border=true&langs_count=8&hide_title=true" width=500px />
 </a>
