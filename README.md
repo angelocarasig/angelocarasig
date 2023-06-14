@@ -9,26 +9,9 @@
 ---
 ### About Me
 - Start Date: 2021
+- Umineko "uohh beatricee 😭😭😭" enjoyer
+- Subahibi "he just jumped off 💀💀💀" fan
 
-### Progression
-* 2021:
-  * Java
-  * HTML/CSS/Javascript
-  * SQL
- 
-  * Python
-  * Assembly
-  * React
- 
-* 2022:
-  * C/C++
-  * Flutter
-  * Springboot
- 
-* 2023:
-  * C# → ASP.NET
-  * Typescript → Angular
-  * Powershell (?)
 
 ### Current Top 3 Rankings:
 1. Typescript
@@ -41,3 +24,5 @@ Toy Projects:
 - [GBF Bookmarklets](https://github.com/angelocarasig/gbf-bookmarklets)
 - [FAVORITE Unpacker](https://github.com/angelocarasig/FAVORITE-Unpacker)
 - [python-scripts](https://github.com/angelocarasig/python-scripts)
+
+![image](https://github.com/angelocarasig/angelocarasig/assets/82582439/4906c7b9-7e37-46e1-abca-0d8ec12e8c69)
