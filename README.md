@@ -2,18 +2,20 @@
 
 <p align=center>
 <a href="https://github.com/angelocarasig">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelocarasig&show_icons=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true" alt="Statistics" width=500px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=angelocarasig&show_icons=true&hide=contribs,prs,issues&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true" width=500px/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelocarasig&layout=compact&hide=jupyter%20notebook,javascript&show_icons=true&theme=dracula&hide_border=true" alt="Statistics" width=500px />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelocarasig&layout=compact&hide=jupyter%20notebook,javascript&show_icons=true&theme=dracula&hide_border=true&langs_count=8&hide_title=true" width=500px />
 </a>
 </p>
 
+<br/>
 
 <h2 align=center> About Me </h2>
 <b><p align=center> Start Date: 2021</p></b>
 <p align=center>Umineko "UOHHH BEATRICEE 😭😭😭" enjoyer</p>
 <p align=center>Subahibi "it's nothing. Mamiya-kun just jumped off 💀💀💀" fan</p>
 
+<br/>
 
 <h2 align=center> Skills (not really) </h2>
 <p align=center>
@@ -23,6 +25,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
+<br/>
 
 <h2 align=center> Skills (for reals) </h2>
 <p align=center>
@@ -41,13 +44,17 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 
+<br/>
+
+
 <h2 align=center> Toy Projects </h2>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Terminus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=gbf-bookmarklets">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=FAVORITE-Unpacker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=python-scripts">
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Terminus)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=gbf-bookmarklets)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=FAVORITE-Unpacker)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=python-scripts)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![image](https://github.com/angelocarasig/angelocarasig/assets/82582439/4906c7b9-7e37-46e1-abca-0d8ec12e8c69)
+<p align=center>
+<img src="https://github.com/angelocarasig/angelocarasig/assets/82582439/4906c7b9-7e37-46e1-abca-0d8ec12e8c69">
+</p>
