@@ -49,10 +49,21 @@
 
 <h2 align=center> Toy Projects </h2>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Terminus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=gbf-bookmarklets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=FAVORITE-Unpacker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=python-scripts">
+  <a href="https://github.com/angelocarasig/Terminus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Terminus">
+  </a>
+  
+  <a href="https://github.com/angelocarasig/gbf-bookmarklets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=gbf-bookmarklets">
+  </a>
+  
+  <a href="https://github.com/angelocarasig/FAVORITE-Unpacker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=FAVORITE-Unpacker">
+  </a>
+    
+  <a href="https://github.com/angelocarasig/python-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=python-scripts">
+  </a>
 </p>
 
 <p align=center>
