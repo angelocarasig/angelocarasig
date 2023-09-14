@@ -11,7 +11,7 @@
 <br/>
 
 <h2 align=center> About Me </h2>
-<b><p align=center> Start Date: 2021</p></b>
+<b><p align=center> Start Date: Jan 2021</p></b>
 <p align=center>Umineko "UOHHH BEATRICEE 😭😭😭" enjoyer</p>
 <p align=center>Subahibi "it's nothing. Mamiya-kun just jumped off 💀💀💀" fan</p>
 
