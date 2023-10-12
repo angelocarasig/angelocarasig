@@ -62,7 +62,7 @@
   </a>
     
   <a href="https://github.com/angelocarasig/python-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=python-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Akasha">
   </a>
 </p>
 
