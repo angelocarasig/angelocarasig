@@ -61,8 +61,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=FAVORITE-Unpacker">
   </a>
     
-  <a href="https://github.com/angelocarasig/python-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Akasha">
+  <a href="https://github.com/angelocarasig/Ikaros">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Ikaros">
   </a>
 </p>
 
