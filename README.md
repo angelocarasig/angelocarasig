@@ -10,11 +10,6 @@
 
 <br/>
 
-<h2 align=center> About Me </h2>
-<b><p align=center> Start Date: Jan 2021</p></b>
-
-<br/>
-
 <h2 align=center> Toy Projects </h2>
 <p align=center>
   <a href="https://github.com/angelocarasig/Terminus">
@@ -35,5 +30,8 @@
 </p>
 
 <p align=center>
-<img src="https://github.com/angelocarasig/angelocarasig/assets/82582439/4906c7b9-7e37-46e1-abca-0d8ec12e8c69">
+  rosa umineko my beloved
+</p>
+<p align=center>
+<img src="https://github.com/angelocarasig/angelocarasig/assets/82582439/fad2f27c-d47a-4f43-a349-eb3db2e93fb8">
 </p>
