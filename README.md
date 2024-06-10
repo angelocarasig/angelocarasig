@@ -8,27 +8,6 @@
 </a>
 </p>
 
-<br/>
-
-<h2 align=center> Toy Projects </h2>
-<p align=center>
-  <a href="https://github.com/angelocarasig/Terminus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Terminus">
-  </a>
-  
-  <a href="https://github.com/angelocarasig/gbf-bookmarklets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=gbf-bookmarklets">
-  </a>
-  
-  <a href="https://github.com/angelocarasig/FAVORITE-Unpacker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=FAVORITE-Unpacker">
-  </a>
-    
-  <a href="https://github.com/angelocarasig/Ikaros">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=angelocarasig&repo=Ikaros">
-  </a>
-</p>
-
 <p align=center>
   rosa umineko my beloved
 </p>
