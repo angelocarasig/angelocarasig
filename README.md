@@ -1,4 +1,4 @@
-<h1 align=center> Definitely (Not) A VN Enthusiast </h1>
+<h1 align=center> BBKKBKK </h1>
 
 <p align=center>
 <a href="https://github.com/angelocarasig">
@@ -12,5 +12,5 @@
   rosa umineko my beloved
 </p>
 <p align=center>
-<img src="https://github.com/angelocarasig/angelocarasig/assets/82582439/fad2f27c-d47a-4f43-a349-eb3db2e93fb8">
+<img src="https://github.com/user-attachments/assets/0a76c257-a732-45f6-a6a4-25934d58dad0">
 </p>
