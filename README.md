@@ -10,5 +10,6 @@
 ![stats](https://stats.dooboo.io/api/github-stats-advanced?login=angelocarasig)
 
 <p align=center>
-<img src="https://github.com/user-attachments/assets/76666912-0aef-4353-8401-d049b12f0012">
+  <img src="https://github.com/user-attachments/assets/fee36331-e898-4841-9732-1d24a72f3977">
+  <img src="https://github.com/user-attachments/assets/76666912-0aef-4353-8401-d049b12f0012">
 </p>
